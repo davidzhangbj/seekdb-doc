@@ -6,7 +6,7 @@
   100.vector-search=向量检索
     100.vector-search-overview=向量检索概述
     200.vector-index=向量索引
-      400.sparse-vector=稀疏向量索引
+      400.sparse-vector-index=稀疏向量索引
     700.vector-search-reference=参考指南
       900.vector-search-supported-clients-and-languages=支持的客户端和语言
   200.hybrid-search=混合检索
