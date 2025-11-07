@@ -4,3 +4,15 @@
   500.environment-and-configuration-checks=部署前准备
 700.ai=SeekDB for AI
   100.vector-search=向量检索
+    100.vector-search-overview=向量检索概述
+    200.vector-index=向量索引
+      400.sparse-vector=稀疏向量索引
+    700.vector-search-reference=参考指南
+      900.vector-search-supported-clients-and-languages=向量检索支持的客户端和语言
+  200.hybrid-search=混合检索
+  300.ai-function=AI 函数服务
+  500.multi-model=多模数据
+    100.json= JSON 数据
+    200.spatial=空间数据
+    300.char-and-text=字符和文本数据
+  600.vector-search-integration=AI 集成
