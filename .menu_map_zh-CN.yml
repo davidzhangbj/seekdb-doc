@@ -17,6 +17,7 @@
     300.char-and-text=字符和文本数据
   600.vector-search-integration=AI 集成
     100.model=模块
+    200.frame=框架
     300.mcp-client=MCP Client
 1000.obshell=obshell
   300.obshell-clients=obshell 命令
