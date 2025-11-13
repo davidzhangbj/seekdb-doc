@@ -2,6 +2,7 @@
   100.create-ai-app-demo=Build AI applications
 400.deploy=Deploy SeekDB
   500.environment-and-configuration-checks=Pre-deployment preparation
+  700.server-mode=Server mode
 700.ai=SeekDB for AI
   100.vector-search=Vector search
     100.vector-search-overview=Vector search overview
