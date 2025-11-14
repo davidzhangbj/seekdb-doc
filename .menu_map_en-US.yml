@@ -19,7 +19,7 @@
     200.frame=Frameworks
     300.mcp-client=MCP clients
 400.guides=Guides
-  400.deploy=Deploy SeekDB
+  400.deploy=Deploy seekdb
     500.environment-and-configuration-checks=Pre-deployment preparation
     700.server-mode=Server mode 
   1000.obshell=obshell
