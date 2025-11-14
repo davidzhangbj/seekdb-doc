@@ -15,9 +15,9 @@
     200.spatial=Spatial data
     300.char-and-text=Character and text data
 300.integrations=Integrations
-    100.model=Model
-    200.frame=Framework
-    300.mcp-client=MCP Client
+    100.model=Models
+    200.frame=Frameworks
+    300.mcp-client=MCP clients
 400.guides=Guides
   400.deploy=Deploy SeekDB
     500.environment-and-configuration-checks=Pre-deployment preparation
