@@ -1,4 +1,5 @@
 100.get-started=Get started
+  10.overview=seekdb 概述
   50.quick-start=快速体验
     100.create-ai-app-demo=搭建 AI 应用
 200.develop=Develop
@@ -10,6 +11,7 @@
       900.vector-search-supported-clients-and-languages=支持的客户端和语言
   200.hybrid-search=混合搜索
   300.ai-function=AI 函数服务
+  400.mcp-server=MCP Server
   500.multi-model=多模数据
     100.json=JSON 数据
     200.spatial=空间数据
@@ -25,4 +27,5 @@
   1000.obshell=obshell
     300.obshell-clients=obshell 命令
     350.obshell-dashboard=obshell Dashboard
+  1200.reference=参考
 700.release-notes=Release notes
