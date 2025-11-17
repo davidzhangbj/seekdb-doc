@@ -17,6 +17,15 @@
     100.json=JSON data
     200.spatial=Spatial data
     300.char-and-text=Character and text data
+  900.sdk=SDK
+    10.pyseekdb-sdk=pyseekdb
+      50.sdk-samples=SDK samples
+    50.apis=APIs
+      110.database=Database
+      200.collection=Collection
+      300.dml=DML
+      400.dql=DQL
+    60.embedding-funcations=User-defined functions
   1000.python=Python
 300.integrations=Integrations
     100.model=Models
