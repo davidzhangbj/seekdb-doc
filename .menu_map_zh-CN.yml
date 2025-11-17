@@ -1,6 +1,8 @@
 100.get-started=Get started
   10.overview=seekdb 概述
-  50.quick-start=快速体验
+  50.embedded-mode=嵌入式模式
+  100.client-server-mode=服务器模式
+  150.build-ai-apps=搭建 AI 应用
 200.develop=Develop
   100.vector-search=向量搜索
     100.vector-search-overview=向量搜索概述
@@ -15,6 +17,7 @@
     100.json=JSON 数据
     200.spatial=空间数据
     300.char-and-text=字符和文本数据
+  1000.python=Python
 300.integrations=Integrations
     100.model=模块
     200.frame=框架
@@ -27,7 +30,7 @@
     300.obshell-clients=obshell 命令
     350.obshell-dashboard=obshell Dashboard
   1200.reference=参考
+  1300.release-notes=Release notes
 500.tutorials=Tutorials
   100.create-ai-app-demo=搭建 AI 应用
 600.demos=Demos
-700.release-notes=Release notes
