@@ -3,6 +3,7 @@
   50.embedded-mode=嵌入式模式
   100.client-server-mode=服务器模式
   150.build-ai-apps=搭建 AI 应用
+  600.demos=Demos
 200.develop=Develop
   100.vector-search=向量搜索
     100.vector-search-overview=向量搜索概述
@@ -42,4 +43,3 @@
   1300.release-notes=Release notes
 500.tutorials=Tutorials
   100.create-ai-app-demo=搭建 AI 应用
-600.demos=Demos
