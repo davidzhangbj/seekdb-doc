@@ -29,10 +29,10 @@
   1000.python=Python
 300.integrations=Integrations
   100.frameworks=Frameworks
-  200.model-platforms=Model Platforms
-  300.developer-tools=Developer Tools
+  200.model-platforms=Model platforms
+  300.developer-tools=Developer tools
   400.workflows=Workflows
-  500.data-ingestion=Data Ingestion
+  500.data-ingestion=Data ingestion
   600.mcp=MCP
 400.guides=Guides
   400.deploy=Deploy seekdb
