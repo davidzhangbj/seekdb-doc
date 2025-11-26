@@ -28,9 +28,12 @@
     60.embedding-funcations=自定义函数
   1000.python=Python
 300.integrations=Integrations
-    100.model=模型
-    200.frame=框架
-    300.mcp-client=MCP Client
+  100.frameworks=框架
+  200.model-platforms=模型平台
+  300.developer-tools=编程工具
+  400.workflows=工作流
+  500.data-ingestion=数据采集
+  600.mcp=MCP
 400.guides=Guides
   400.deploy=部署 SeekDB
     500.environment-and-configuration-checks=部署前准备
