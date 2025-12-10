@@ -41,6 +41,9 @@
   1000.obshell=obshell
     300.obshell-clients=obshell 命令
     350.obshell-dashboard=obshell Dashboard
+  1100.performance-test=性能测试
+    100.vectordbbench-test-on-seekdb=seekdb Vectordbbench 测试
+    200.sysbench-test-on-seekdb=seekdb Sysbench 测试
   1200.reference=参考
   1300.release-notes=Release notes
 500.tutorials=Tutorials
