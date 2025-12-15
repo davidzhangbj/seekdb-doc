@@ -37,8 +37,12 @@
 400.guides=Guides
   400.deploy=部署 SeekDB
     500.environment-and-configuration-checks=部署前准备
-    700.server-mode=服务器模式 
-  1000.obshell=obshell
+    700.server-mode=服务器模式
+  500.manage=管理 seekdb
+    100.configuration-management=配置管理
+      200.system-configuration-items=配置项
+      300.system-variable=系统变量
+  1000.obshell=运维工具 obshell
     300.obshell-clients=obshell 命令
     350.obshell-dashboard=obshell Dashboard
   1100.performance-test=性能测试
