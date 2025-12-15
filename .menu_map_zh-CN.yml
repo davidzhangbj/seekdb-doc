@@ -42,6 +42,8 @@
     100.configuration-management=配置管理
       200.system-configuration-items=配置项
       300.system-variable=系统变量
+    200.high-availability=高可用
+	200.recyclebin=回收站管理
   1000.obshell=运维工具 obshell
     300.obshell-clients=obshell 命令
     350.obshell-dashboard=obshell Dashboard
