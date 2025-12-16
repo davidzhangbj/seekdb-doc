@@ -44,6 +44,12 @@
       300.system-variable=System variables
     200.high-availability=High availability
 	200.recyclebin=Recyclebin
+    300.security=Security and permissions
+      200.identification-and-authentication=Identification and authentication
+      300.access-control=Access control
+        200.user-and-permission=User and permissions
+          340.role-management=Role management
+      400.data-transfer-encryption=Data transmission encrption
   1000.obshell=obshell
     300.obshell-clients=obshell commands
     350.obshell-dashboard=obshell Dashboard
