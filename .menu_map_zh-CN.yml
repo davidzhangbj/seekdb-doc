@@ -44,6 +44,13 @@
       300.system-variable=系统变量
     200.high-availability=高可用
 	200.recyclebin=回收站管理
+    300.security=安全权限
+      200.identification-and-authentication=身份鉴别和认证
+      300.access-control=访问控制
+        200.user-and-permission=用户和权限
+          200.permission=权限管理
+            340.role-management=角色管理
+      400.data-transfer-encryption=数据传输加密
   1000.obshell=运维工具 obshell
     300.obshell-clients=obshell 命令
     350.obshell-dashboard=obshell Dashboard
