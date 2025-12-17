@@ -58,6 +58,7 @@
     100.vectordbbench-test-on-seekdb=seekdb Vectordbbench 测试
     200.sysbench-test-on-seekdb=seekdb Sysbench 测试
   1200.reference=参考
+	1380.error-code=常用错误码
   1300.release-notes=Release notes
 500.tutorials=Tutorials
   100.create-ai-app-demo=搭建 AI 应用
