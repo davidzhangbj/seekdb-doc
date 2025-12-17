@@ -57,6 +57,7 @@
     100.vectordbbench-test-on-seekdb=Vectordbbench
     200.sysbench-test-on-seekdb=Sysbench
   1200.reference=Reference
+    1380.error-code=Error code
   1300.release-notes=Release notes
 500.tutorials=Tutorials
   100.create-ai-app-demo=Build AI applications
