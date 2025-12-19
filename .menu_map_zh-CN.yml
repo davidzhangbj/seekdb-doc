@@ -83,7 +83,7 @@
     50.apis=APIs
       110.database=Database
       200.collection=Collection
-      300.DML=DML
+      300.dml=DML
       400.dql=DQL
     60.embedding-funcations=自定义函数
 500.tutorials=Tutorials
