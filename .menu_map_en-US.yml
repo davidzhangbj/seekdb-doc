@@ -75,6 +75,7 @@
       700.pl-database-management-statements=PL database management statements
       800.information-schema-dictionary-view=PL related dictionary views
       900.pl-exception-handling-statement=PL exception handling
+  600.error-code=Error Code
   900.sdk=SDK
     10.pyseekdb-sdk=pyseekdb
       50.sdk-samples=SDK samples
