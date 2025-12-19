@@ -51,6 +51,9 @@
   	1380.error-code=常用错误码
   1300.release-notes=Release notes
 450.reference=Reference
+  200.sql=SQL
+  300.pl=PL
+  600.error-code=错误码
   900.sdk=SDK
     10.pyseekdb-sdk=pyseekdb
       50.sdk-samples=SDK 示例
