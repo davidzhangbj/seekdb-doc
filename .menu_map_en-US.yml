@@ -70,7 +70,7 @@
       200.storage-object=PL stored procedures
       300.cursor=PL cursors
       400.control-statement=PL conditional control statements
-      500.pl-manipulation-statement=PL data manipulation statements
+      500.pl-manipulation-statement-mysql=PL data manipulation statements
       600.sql-statements-for-pl-stored-programs=PL data definition statements
       700.pl-database-management-statements=PL database management statements
       800.information-schema-dictionary-view=PL related dictionary views

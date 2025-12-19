@@ -71,7 +71,7 @@
       200.storage-object=PL 存储程序
       300.cursor=PL 游标
       400.control-statement=PL 条件控制语句
-      500.pl-manipulation-statement=PL 数据操作语句
+      500.pl-manipulation-statement-mysql=PL 数据操作语句
       600.sql-statements-for-pl-stored-programs=PL 数据定义语句
       700.pl-database-management-statements=PL 数据库管理语句
       800.information-schema-dictionary-view=PL 相关字典视图
