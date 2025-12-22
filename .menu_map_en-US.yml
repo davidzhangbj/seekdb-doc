@@ -1,8 +1,7 @@
 100.get-started=Get started
   10.overview=Overview
-  50.embedded-mode=Embedded mode
-  100.client-server-mode=Client/Server mode
-  150.build-ai-apps=Build AI applications
+  50.use-seekdb-with-sdk=SDK
+  100.use-seekdb-with-sql=SQL
 200.develop=Develop
   100.vector-search=Vector search
     100.vector-search-overview=Vector search overview
@@ -87,4 +86,5 @@
     60.embedding-funcations=User-defined functions
 500.tutorials=Tutorials
   100.create-ai-app-demo=Build AI applications
+  200.scenarios=Scenarios
 600.demos=Demos
