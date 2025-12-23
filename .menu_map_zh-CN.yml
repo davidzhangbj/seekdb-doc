@@ -24,7 +24,7 @@
   500.data-ingestion=数据采集
   600.mcp=MCP
 400.guides=Guides
-  400.deploy=部署 SeekDB
+  400.deploy=部署 seekdb
     500.environment-and-configuration-checks=部署前准备
     700.server-mode=服务器模式
   500.manage=管理 seekdb
