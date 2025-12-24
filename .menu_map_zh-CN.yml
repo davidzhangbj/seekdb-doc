@@ -9,6 +9,7 @@
       400.sparse-vector-index=稀疏向量索引
     700.vector-search-reference=参考指南
       900.vector-search-supported-clients-and-languages=支持的客户端和语言
+  200.design-database-schema=数据库模式设计
   200.hybrid-search=混合搜索
   300.ai-function=AI 函数服务
   400.mcp-server=MCP Server
