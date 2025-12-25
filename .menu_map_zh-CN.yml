@@ -22,6 +22,11 @@
       900.vector-search-supported-clients-and-languages=支持的客户端和语言
   200.design-database-schema=数据库模式设计
   200.hybrid-search=混合搜索
+  300.read-and-write-data=数据写入和读取
+    100.write-data=写入数据
+    200.read-data=读取数据
+      200.multi-table-join-query=多表联合查询
+      300.use-operators-and-functions-in-query=在查询中使用运算符和函数
   300.ai-function=AI 函数服务
   400.mcp-server=MCP Server
   500.multi-model=多模数据
