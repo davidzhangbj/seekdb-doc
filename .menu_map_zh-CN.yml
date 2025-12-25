@@ -3,6 +3,17 @@
   50.use-seekdb-with-sdk=使用 SDK
   100.use-seekdb-with-sql=使用 SQL
 200.develop=Develop
+  100.connect-to-seekdb=连接 seekdb
+    200.use-client-connect-seekdb=通过客户端连接
+    300.sample-program=示例程序
+      100.java=Java
+      200.python=Python
+      300.c=C
+      400.go=Go
+      500.php=PHP
+      600.rust=Rust
+      700.ruby=Ruby
+    400.use-the-database-connection-pool=连接池
   100.vector-search=向量搜索
     100.vector-search-overview=向量搜索概述
     200.vector-index=向量索引
