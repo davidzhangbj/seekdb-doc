@@ -94,6 +94,15 @@
       700.pl-database-management-statements=PL 数据库管理语句
       800.information-schema-dictionary-view=PL 相关字典视图
       900.pl-exception-handling-statement=PL 异常处理
+      1000.pl-system-package=PL 系统包
+        10050.dbms-mview-stat=BMS_MVIEW_STATS 概述
+        13200.dbms_partition=DBMS_PARTITION 概述
+        17900.dbms-workload-repository=DBMS_WORKLOAD_REPOSITORY 概述
+        15900.dbms-stats=DBMS_STATS 概述
+        17850.dbms-vector=DBMS_VECTOR 概述
+        13300.dbms-resource-manager=DBMS_RESOURCE_MANAGER 概述
+        9950.dbms-mview=DBMS_MVIEW 概述
+        17800.dbms-udr=DBMS_UDR 概述
   600.error-code=常用错误码
   700.telemetry=遥测
   900.sdk=SDK
