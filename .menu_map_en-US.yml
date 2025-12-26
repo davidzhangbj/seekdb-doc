@@ -128,6 +128,15 @@
       700.pl-database-management-statements=PL database management statements
       800.information-schema-dictionary-view=PL related dictionary views
       900.pl-exception-handling-statement=PL exception handling
+      1000.pl-system-package-mysql=PL system packages
+        9950.dbms-mview-mysql=DBMS_MVIEW
+        10050.dbms-mview-stat-mysql=DBMS_MVIEW_STATS
+        13200.dbms_partition-mysql=DBMS_PARTITION
+        13300.dbms-resource-manager-mysql=DBMS_RESOURCE_MANAGER
+        15900.dbms-stats-mysql=DBMS_STATS
+        17800.dbms-udr-mysql=DBMS_UDR
+        17850.dbms-vector-mysql=DBMS_VECTOR
+        17900.dbms-workload-repository-mysql=DBMS_WORKLOAD_REPOSITORY
   600.error-code=Error Code
   700.telemetry=Telemetry
   900.sdk=SDK
