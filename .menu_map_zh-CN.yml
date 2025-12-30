@@ -119,6 +119,7 @@
         1000.other-functions=其它函数
       500.queries-and-subqueries=查询和子查询
       600.sql-statement=SQL 语句
+        300.alter-system=ALTER SYSTEM
         8100.select=SELECT
       700.ddl-function=DDL 功能
       800.overview-of-pseudo-columns=伪列
