@@ -29,6 +29,8 @@
   500.vector-embedding=向量嵌入
   600.search=搜索/Search
     300.vector-search=向量搜索
+      200.vector-index=向量索引
+        400.sparse-vector-index=稀疏向量索引
   700.ai-function=AI 函数服务
 300.integrations=Integrations
   100.frameworks=框架
