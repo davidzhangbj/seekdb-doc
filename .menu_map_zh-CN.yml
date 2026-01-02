@@ -25,14 +25,13 @@
     200.read-data=读取数据
       200.multi-table-join-query=多表联合查询
       300.use-operators-and-functions-in-query=在查询中使用运算符和函数
-  600.search=搜索/Search
-    100.vector-search=向量搜索
-      100.vector-search-overview=向量搜索概述
+  400.llm=接入大模型
+  500.vector-embedding=向量嵌入
+  600.search=搜索
+    300.vector-search=向量搜索
       200.vector-index=向量索引
+        300.dense-vector-index=稠密向量索引
         400.sparse-vector-index=稀疏向量索引
-      700.vector-search-reference=参考指南
-        900.vector-search-supported-clients-and-languages=支持的客户端和语言
-    200.hybrid-search=混合搜索
   700.ai-function=AI 函数服务
 300.integrations=Integrations
   100.frameworks=框架
@@ -61,6 +60,7 @@
   1000.obshell=运维工具 obshell
     300.obshell-clients=obshell 命令
     350.obshell-dashboard=obshell Dashboard
+  1050.data-load-and-dump=数据导入导出
   1100.performance-test=性能测试
     100.vectordbbench-test-on-seekdb=seekdb Vectordbbench 测试
     200.sysbench-test-on-seekdb=seekdb Sysbench 测试
