@@ -124,6 +124,7 @@
         300.alter-system=ALTER SYSTEM
         8100.select=SELECT 
       700.ddl-function=DDL feature
+      800.overview-of-pseudo-columns=Pseudo columns
     300.pl=PL reference
       100.what-is-pl=What is PL
       200.storage-object=PL stored procedures
