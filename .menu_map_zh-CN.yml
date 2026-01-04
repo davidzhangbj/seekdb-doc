@@ -39,8 +39,9 @@
   200.model-platforms=模型平台
   300.developer-tools=编程工具
   400.workflows=工作流
-  500.data-ingestion=数据采集
+  500.500.data-analyst=数据分析
   600.mcp=MCP
+  700.others=其他集成
 400.guides=Guides
   400.deploy=部署 seekdb
     500.environment-and-configuration-checks=部署前准备
