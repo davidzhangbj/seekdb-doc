@@ -28,9 +28,9 @@
   400.llm=LLM
   500.vector-embedding=Vector embedding
   600.search=Search
-    100.vector-search=Vector search
-      100.vector-search-overview=Vector search overview
+    300.vector-search=Vector search
       200.vector-index=Vector index
+        300.dense-vector-index=Dense vector index
         400.sparse-vector-index=Sparse vector index
       700.vector-search-reference=Reference guide
         900.vector-search-supported-clients-and-languages=Supported clients and languages
@@ -41,8 +41,9 @@
   200.model-platforms=Model platforms
   300.developer-tools=Developer tools
   400.workflows=Workflows
-  500.data-ingestion=Data ingestion
+  500.data-analyst=Data analyst
   600.mcp=MCP
+  700.others=Others
 400.guides=Guides
   400.deploy=Deploy seekdb
     500.environment-and-configuration-checks=Pre-deployment preparation
@@ -62,6 +63,7 @@
   1000.obshell=obshell
     300.obshell-clients=obshell commands
     350.obshell-dashboard=obshell Dashboard
+  1050.data-load-and-dump=Data load and dump
   1100.performance-test=Performance test
     100.vectordbbench-test-on-seekdb=Vectordbbench
     200.sysbench-test-on-seekdb=Sysbench
@@ -115,9 +117,11 @@
         950.array-functions=Array functions
         960.text-processing-functions=Text processing functions
         980.map-functions=Map functions
+        990.sequence-function=Sequence function
         1000.other-functions=Other functions
       500.queries-and-subqueries=Queries and subqueries
       600.sql-statement=SQL statements
+        300.alter-system=ALTER SYSTEM
         8100.select=SELECT 
       700.ddl-function=DDL feature
     300.pl=PL reference
