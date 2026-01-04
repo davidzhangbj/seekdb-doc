@@ -41,7 +41,7 @@
   400.workflows=工作流
   500.data-analyst=数据分析
   600.mcp=MCP
-  700.others=其他集成
+  700.others=其他
 400.guides=Guides
   400.deploy=部署 seekdb
     500.environment-and-configuration-checks=部署前准备
