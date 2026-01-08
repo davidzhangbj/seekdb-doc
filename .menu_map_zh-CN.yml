@@ -4,6 +4,7 @@
   100.use-seekdb-with-sql=使用 SQL
 200.develop=Develop
   10.overview=开发概述
+  50.ai-workflow=AI 工作流
   100.connect-to-seekdb=连接 seekdb
     200.use-client-connect-seekdb=通过客户端连接
     300.sample-program=示例程序
