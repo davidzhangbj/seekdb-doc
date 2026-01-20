@@ -69,7 +69,6 @@
   1100.performance-test=Performance test
     100.vectordbbench-test-on-seekdb=Vectordbbench
     200.sysbench-test-on-seekdb=Sysbench
-  1300.release-notes=Release notes
 450.reference=Reference
   100.mysql-compatibility=Compatibility
   200.sql=SQL reference
