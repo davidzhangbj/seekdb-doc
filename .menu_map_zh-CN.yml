@@ -157,6 +157,14 @@
         300.dml=DML
         400.dql=DQL
       60.embedding-funcations=自定义函数
+    20.seekdb-js=seekdb-js
+      30.sdk-samples-of-seekdb-js=seekdb-js 示例
+      50.apis-of-seekdb-js=APIs
+        110.database-of-seekdb-js=Database
+        200.collection-of-seekdb-js=Collection
+        300.dml-of-seekdb-js=DML
+        400.dql-of-seekdb-js=DQL
+      60.embedding-funcations-of-seekdb-js=嵌入函数
 500.tutorials=Tutorials
   100.create-ai-app-demo=搭建 AI 应用
   200.scenarios=场景实践
