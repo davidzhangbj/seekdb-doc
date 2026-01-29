@@ -157,7 +157,7 @@
         200.collection=Collection
         300.dml=DML
         400.dql=DQL
-      60.embedding-funcations=自定义函数
+      60.embedding-funcations=嵌入函数
 500.tutorials=Tutorials
   100.create-ai-app-demo=搭建 AI 应用
   200.scenarios=场景实践
