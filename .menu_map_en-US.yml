@@ -1,4 +1,5 @@
 100.get-started=Get started
+  5.changelog=Product updates
   10.overview=Overview
   50.use-seekdb-with-sdk=SDK
   100.use-seekdb-with-sql=SQL
@@ -51,6 +52,7 @@
   400.deploy=Deploy seekdb
     500.environment-and-configuration-checks=Pre-deployment preparation
     700.server-mode=Server mode
+  460.upgrade=Upgrade seekdb
   500.manage=Manage
     100.configuration-management=Configuration management
       200.system-configuration-items=Configuration items
@@ -72,6 +74,7 @@
     200.sysbench-test-on-seekdb=Sysbench
     300.tpc-h-test-on-seekdb=TPC-H
     400.mldr-test-on-seekdb=MLDR
+  1300.release-notes=Release notes
 450.reference=Reference
   100.mysql-compatibility=Compatibility
   200.sql=SQL reference
@@ -140,6 +143,7 @@
       800.information-schema-dictionary-view=PL related dictionary views
       900.pl-exception-handling-statement=PL exception handling
       1000.pl-system-package=PL system packages
+        9000.dbms-hybrid-search=DBMS_HYBRID_SEARCH
         9950.dbms-mview=DBMS_MVIEW
         10050.dbms-mview-stat=DBMS_MVIEW_STATS
         13200.dbms_partition=DBMS_PARTITION
@@ -158,7 +162,17 @@
         200.collection=Collection
         300.dml=DML
         400.dql=DQL
-      60.embedding-funcations=User-defined functions
+      60.embedding-funcations=Embedding functions
+        400.embedding-function-wrapper-py=Integrations
+    20.seekdb-js=seekdb-js
+      30.sdk-samples-of-seekdb-js=SDK samples
+      50.apis-of-seekdb-js=APIs
+        110.database-of-seekdb-js=Database
+        200.collection-of-seekdb-js=Collection
+        300.dml-of-seekdb-js=DML
+        400.dql-of-seekdb-js=DQL
+      60.embedding-funcations-of-seekdb-js=Embedding functions
+        700.embedding-function-wrapper-js=Integrations
 500.tutorials=Tutorials
   100.create-ai-app-demo=Build AI applications
   200.scenarios=Scenarios
