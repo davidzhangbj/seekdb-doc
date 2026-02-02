@@ -1,11 +1,11 @@
 100.get-started=Get started
   5.changelog=Product updates
-  10.overview=Overview
+  10.seekdb-overview=seekdb Overview
   50.use-seekdb-with-sdk=SDK
   100.use-seekdb-with-sql=SQL
   200.ai-coding=Using seekdb with AI coding tools
 200.develop=Develop
-  10.overview=Overview
+  10.develop-overview=Develop Overview
   50.ai-workflow=AI workflow
   100.connect-to-seekdb=Connect to seekdb
     200.use-client-connect-seekdb=Connect via client
