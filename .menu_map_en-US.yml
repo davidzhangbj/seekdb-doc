@@ -1,5 +1,4 @@
 100.get-started=Get started
-  5.changelog=Product updates
   10.seekdb-overview=seekdb Overview
   50.use-seekdb-with-sdk=SDK
   100.use-seekdb-with-sql=SQL
@@ -74,7 +73,6 @@
     200.sysbench-test-on-seekdb=Sysbench
     300.tpc-h-test-on-seekdb=TPC-H
     400.mldr-test-on-seekdb=MLDR
-  1300.release-notes=Release notes
 450.reference=Reference
   100.mysql-compatibility=Compatibility
   200.sql=SQL reference

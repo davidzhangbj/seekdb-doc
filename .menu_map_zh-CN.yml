@@ -1,5 +1,4 @@
 100.get-started=Get started
-  5.changelog=产品动态
   10.seekdb-overview=seekdb 概述
   50.use-seekdb-with-sdk=使用 SDK
   100.use-seekdb-with-sql=使用 SQL
@@ -72,7 +71,6 @@
     200.sysbench-test-on-seekdb=seekdb Sysbench 测试
     300.tpc-h-test-on-seekdb=seekdb TPC-H 测试
     400.mldr-test-on-seekdb=seekdb MLDR 测试
-  1300.release-notes=Release notes
 450.reference=Reference
   100.mysql-compatibility=兼容性
   200.sql=SQL 参考
