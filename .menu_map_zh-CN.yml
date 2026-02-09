@@ -35,15 +35,6 @@
         300.dense-vector-index=稠密向量索引
         400.sparse-vector-index=稀疏向量索引
   700.ai-function=AI 函数服务
-300.integrations=Integrations
-  100.frameworks=框架
-  200.model-platforms=模型平台
-  300.developer-tools=编程工具
-  400.workflows=工作流
-  500.data-analyst=数据分析
-  600.mcp=MCP
-  650.plugin=插件
-  700.others=其他
 400.guides=Guides
   400.deploy=部署 seekdb
     500.environment-and-configuration-checks=部署前准备

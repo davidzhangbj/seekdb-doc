@@ -38,15 +38,6 @@
         900.vector-search-supported-clients-and-languages=Supported clients and languages
     200.hybrid-search=Hybrid search
   700.ai-function=AI functions
-300.integrations=Integrations
-  100.frameworks=Frameworks
-  200.model-platforms=Model platforms
-  300.developer-tools=Developer tools
-  400.workflows=Workflows
-  500.data-analyst=Data analyst
-  600.mcp=MCP
-  650.plugin=Plugin
-  700.others=Others
 400.guides=Guides
   400.deploy=Deploy seekdb
     500.environment-and-configuration-checks=Pre-deployment preparation
